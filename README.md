@@ -8,6 +8,10 @@ August 6th - September 6th
 
 ### How do I get access? 
 
+You can purchase access to Alpha 4 and EA/Release on [Corepunk's shop](https://shop.corepunk.com/). 
+
+If you were in Alpha 1, you may receive a free key for Alpha 4. 
+
 ### How do I select server?
 
 Click the world icon on the left, not the dropdown that says Light Bless The King. 
@@ -167,7 +171,9 @@ Click on the player, click their bar at the top of the screen, and click Exchang
 
 ### How do I auto-run / follow? 
 
-There is no auto-run, but you can set follow using the same steps as trading above. Choo choo, train to the PvP zone departing now. 
+Press Z to auto run.
+
+To follow: click on a player, click the bar at the top of the screen, click Follow. Choo choo, train to the PvP zone departing now. 
 
 ### Why can't I see my friend if we're at the same place in-game?
 
@@ -228,15 +234,25 @@ Two, but only one of them can be Dark Horse (movement speed).
 
 ### How do I get better gear? 
 
+You can buy it, craft it, or loot it from PvE and chests. 
+
 ### Where can I buy my first weapon?
+
+[Ratchet](https://corepunkers.com/npcs/ratchet)
 
 ### Where can I buy my first artifacts?
 
+[Griz Turner](https://corepunkers.com/npcs/griz-turner)
+
 ### Where can I buy level 10 weapons and recipes? 
+
+Near [Razz Thundermaw](https://corepunkers.com/npcs/razz-thundermaw), there are vendors for each class. 
 
 ## Harvesting
 
 ### How do I harvest specific items?
+
+Harvesting nodes drop items from specific loot tables:
 
 * [Corepunk: Gathering](https://corepunk.com/en/news/article/57)
 * [Corepunkers: Butchery](https://corepunkers.com/professions/butchery)
@@ -248,9 +264,52 @@ Two, but only one of them can be Dark Horse (movement speed).
 
 ### Is there PvP?
 
+Yes. You could theoretically play the game without engaging in PvP, but you would be pretty limited in what you could accomplish.
+
 ### How do I flag for PvP?
 
+The flagging mechanics in Corepunk after different from most games. You can press 'P' to toggle between Combat mode and Peaceful mode. 
+
+In Combat mode you can do damage to other players, which may result in... consequences. 
+
 ### What are the consequences of PvP?
+
+There are three types of zones in Corepunk: Safe Zone, Protected Zone, Battleground Zone.
+
+Safe Zone: 
+
+* No Honor granted for PvP activity 
+* Aggressor loses 500 karma for each PvP killing 
+* Drop 1 random resource from inventory when killed 
+* Criminal status granted at 1000 Karma 
+* Criminals drop all loot on death 
+* Mobs drop gold 
+* Killing a mob grants a small amount of karma 
+* Chests contain skins, gold, recipes, and consumables 
+* Teleporting permitted everywhere
+
+Protected Zone: 
+
+* No Honor granted for PvP activity 
+* Aggressor loses 500 karma for each PvP killing 
+* Drop 1 random resource from inventory when killed 
+* Criminal status granted at 1000 Karma 
+* Criminals drop all loot on death 
+* Mobs drop gold 
+* Killing a mob grants a small amount of karma 
+* Chests contain skins, gold, recipes, and consumables 
+* Teleporting permitted everywhere
+
+Battleground Zone: 
+
+* 10 Honor granted for each PvP killing 
+* No Karma loss for each PvP killing 
+* Drop 5 random items and lose 5 honor when killed 
+* Criminal status does not apply here 
+* Mobs drop tradable items 
+* Killing a mob grants a large amount of karma 
+* Chests contain weapons, artifacts, chips, runes, and consumables 
+* Teleporting permitted only at shrines
 
 ### GOD keeps ganking me, have they no mercy???
 
@@ -260,4 +319,14 @@ Become. Monke.
 
 ### What are world bosses?
 
+World bosses are what you'd expect. The ones in the Protected Zones drop mostly recipes and cosmetics, and the ones in the Battleground Zones drop weapons, artifacts, etc. 
+
 ### What kinds of chests are there? 
+
+Mob camps in the Battleground Zones have chests that can contain weapons, artifacts, etc.
+
+There are also random chests that vary in rarity. The rare ones can drop very good weapons, artifacts, etc. 
+
+### How do I pick up things that are out of reach?
+
+Hold alt use the terrain to get close enough to pick up. Fortunately, it seems that the range you can loot has been increased for Alpha 4!
