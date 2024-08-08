@@ -30,7 +30,7 @@ Servers for Alpha 4 will likely be:
 * Mounts
 * Synthesis Machine
 * NPC Traders
-* New PvP zone (open world battleground)
+* New PvP zone
 * New Town
 * New NPCs
 * New Quests
@@ -238,7 +238,12 @@ You can buy it, craft it, or loot it from PvE and chests.
 
 ### Where can I buy my first weapon?
 
-[Ratchet](https://corepunkers.com/npcs/ratchet)
+[Ratchet](https://corepunkers.com/npcs/ratchet) no longer sells weapons and only sells random recipes, so the getting your first weapon is more challenging than it was in Alpha 3. 
+
+* Check all vendors for weapons and weapon recipes
+* wolves, use a group if you need to. Craft Assault Launcher for Ratchet and the reward is a weapon, not all are decent
+* Skeletons
+* Chests in the PvP zone
 
 ### Where can I buy my first artifacts?
 
@@ -247,6 +252,15 @@ You can buy it, craft it, or loot it from PvE and chests.
 ### Where can I buy level 10 weapons and recipes? 
 
 Near [Razz Thundermaw](https://corepunkers.com/npcs/razz-thundermaw), there are vendors for each class. 
+
+The Main Story Quest offers a Level 10 Rare weapon, but the alternative choices are rare artifacts
+
+### How do I earn gold?
+
+* Harvest
+* Craft at 100%
+* Kill skeletons
+* Chests
 
 ## Harvesting
 
@@ -274,7 +288,11 @@ In Combat mode you can do damage to other players, which may result in... conseq
 
 ### What are the consequences of PvP?
 
-There are three types of zones in Corepunk: Safe Zone, Protected Zone, Battleground Zone.
+There are three types of zones in Corepunk: **Safe Zone, Protected Zone, Battleground Zone**
+
+In **Protected Zones** you drop one stack of resources.
+
+In **Battleground Zones** you drop five stacks of items, which can include anything that is unbound: resources, consumes, campfires, and most importantly, weapons, artifacts, runes, and chips that you have not yet extracted from the PvP zone. This is where the juicy PvP loot is.
 
 Safe Zone: 
 
@@ -310,10 +328,6 @@ Battleground Zone:
 * Killing a mob grants a large amount of karma 
 * Chests contain weapons, artifacts, chips, runes, and consumables 
 * Teleporting permitted only at shrines
-
-### GOD keeps ganking me, have they no mercy???
-
-Become. Monke.
 
 ## Content
 
