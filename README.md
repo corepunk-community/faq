@@ -16,12 +16,15 @@ If you were in Alpha 1, you may receive a free key for Alpha 4.
 
 Click the world icon on the left, not the dropdown that says Light Bless The King. 
 
-Servers for Alpha 4 will likely be:
+Servers for Alpha 4 are:
 
-* North America West
-* North America East
-* South America
-* Europe
+* US Oregon (NA West)
+* US Iowa (NA Central)
+* Asia-Seoul
+* EU-Netherlands
+* SA-São Paulo
+* Asia-Singapore
+* Asia-Mumbai
 
 ### What are the major changes in Alpha 4?
 
