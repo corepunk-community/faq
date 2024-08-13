@@ -49,7 +49,7 @@ Servers for Alpha 4 are:
 
 ### Can I change heroes after I create my character?
 
-No, but you can create alts, and in the future you will be able to swap between three different sub-classes for each hero. 
+No, but you can create alts, and in the future you will be able to swap between three different sub-classes for each class. 
 
 ### Can I change my appearance or gender?
 
@@ -69,7 +69,7 @@ First, press J and read over the quest again, review the conversation, and see i
 
 ### Do I need to do all of the quests immediately?
 
-No, Corepunk is a bit different in this regard. You can skip quests that are out of your way or you don't have the resources to complete, and come back to them later. In Alpha 3, you didn't even need to do the main story quest at all. That may have changed for Alpha 4 though if there is a mount quest that has pre-requisites. 
+No, Corepunk is a bit different in this regard. You can skip quests that are out of your way or you don't have the resources to complete, and come back to them later. You don't even need to do the main story quest if you don't want to, but the XP is very good.
 
 ### Where can I find this NPC? 
 
@@ -109,9 +109,9 @@ In Goldenfield, near the cafe and the primary kitchen/fire.
 * Support Talent Tree
 * Hunter Talent Tree
 * Dark Horse Rune (max 1)
-* Mount (around level 15)
+* Mount (level 8, 400g)
 * Food (Pasta "Bloodonjeze")
-* Potentially Hero abilities or weapon specializations
+* Hero abilities or weapon specializations
 
 ## Combat and Recovery
 
@@ -128,7 +128,7 @@ In Goldenfield, near the cafe and the primary kitchen/fire.
 
 Press Y and craft with 3x wood and 1x matchess. If you are crafting in bulk, consider swapping to Pathfinder Talents to reduce the cost to 2x wood instead.
 
-### Where can I find free campfires?
+### Where can I find public campfires?
 
 [Corepunkers: Map](https://map.corepunkers.com/)
 
@@ -212,11 +212,15 @@ Talents are another progression path but are passives and not specific to a sub-
 
 Yes, the items required had a relatively high drop rate in Alpha 3 and at least Talent Renewal Cubes were able to be purchased from a vendor for about 25 gold. 
 
+### Can we change the ability points put in to Q, W, E, R?
+
+No.
+
 ### What are Universal Abilities?
 
 You can choose two universal abilities, which are sort of like Summoner Spell's in League of Legends. 
 
-You can purchase them in the war camp to the west of Goldenfield, and you can get your first one around level 5 and your second around level 10. 
+You can purchase them in the war camp to the west of Goldenfield, and you can get your first one at level 5 and your second at level 10. 
 
 ### How do I use runes?
 
@@ -239,14 +243,14 @@ Two, but only one of them can be Dark Horse (movement speed).
 
 You can buy it, craft it, or loot it from PvE and chests. 
 
-### Where can I buy my first weapon?
+### Where can I get my first weapon?
 
-[Ratchet](https://corepunkers.com/npcs/ratchet) no longer sells weapons and only sells random recipes, so the getting your first weapon is more challenging than it was in Alpha 3. 
-
-* Check all vendors for weapons and weapon recipes
-* wolves, use a group if you need to. Craft Assault Launcher for Ratchet and the reward is a weapon, not all are decent
+* [Ratchet](https://corepunkers.com/npcs/ratchet)
+* Random vendors
+* Wolves, use a group if you need to. Craft Assault Launcher for Ratchet and the reward is a weapon, not all are decent
 * Skeletons
 * Chests in the PvP zone
+* Crafting
 
 ### Where can I buy my first artifacts?
 
@@ -256,14 +260,28 @@ You can buy it, craft it, or loot it from PvE and chests.
 
 Near [Razz Thundermaw](https://corepunkers.com/npcs/razz-thundermaw), there are vendors for each class. 
 
-The Main Story Quest offers a Level 10 Rare weapon, but the alternative choices are rare artifacts
+### How does the Synthesis Machine work?
+
+You can reroll:
+
+* Main stat values
+* Secondary stat values
+* Secondary baskets (what secondary stats are on an artifact)
+
+Each recipe requires a specific item (Reroll Main Values, Reroll Secondary Baskets, Reroll Secondary Values) plus one synthesis fuel. 
+
+The synthesis machine can be found at any crafting station, there is a tab at the bottom of the screen. 
+
+Upgrading items may also be possible.
+
+![Synthesis Machine](https://raw.githubusercontent.com/corepunk-community/faq/main/images/synthesis.png)
 
 ### How do I earn gold?
 
 * Harvest
 * Craft at 100%
 * Kill skeletons
-* Chests
+* Interactables
 
 ## Harvesting
 
@@ -281,7 +299,7 @@ Harvesting nodes drop items from specific loot tables:
 
 ### Is there PvP?
 
-Yes. You could theoretically play the game without engaging in PvP, but you would be pretty limited in what you could accomplish.
+Yes. You could theoretically play the game without engaging in PvP or going to the PvP zone, but it would be less efficient.
 
 ### How do I flag for PvP?
 
@@ -289,13 +307,17 @@ The flagging mechanics in Corepunk after different from most games. You can pres
 
 In Combat mode you can do damage to other players, which may result in... consequences. 
 
+This has no impact on whether other people can attack you. 
+
 ### What are the consequences of PvP?
 
 There are three types of zones in Corepunk: **Safe Zone, Protected Zone, Battleground Zone**
 
 In **Protected Zones** you drop one stack of resources.
 
-In **Battleground Zones** you drop five stacks of items, which can include anything that is unbound: resources, consumes, campfires, and most importantly, weapons, artifacts, runes, and chips that you have not yet extracted from the PvP zone. This is where the juicy PvP loot is.
+In **Battleground Zones** you drop five stacks of items, which can include resources and weapons, artifacts, runes, and ships that haven't been extracted yet.
+
+![Zones](https://raw.githubusercontent.com/corepunk-community/faq/main/images/zones.png)
 
 Safe Zone: 
 
@@ -343,6 +365,8 @@ World bosses are what you'd expect. The ones in the Protected Zones drop mostly 
 Mob camps in the Battleground Zones have chests that can contain weapons, artifacts, etc.
 
 There are also random chests that vary in rarity. The rare ones can drop very good weapons, artifacts, etc. 
+
+You can tell the rarity of the chest after you open it by the color that it glows.
 
 ### How do I pick up things that are out of reach?
 
