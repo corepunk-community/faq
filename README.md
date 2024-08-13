@@ -276,6 +276,8 @@ Upgrading items may also be possible.
 
 ![Synthesis Machine](https://raw.githubusercontent.com/corepunk-community/faq/main/images/synthesis.png)
 
+image credit: Monti 
+
 ### How do I earn gold?
 
 * Harvest
