@@ -4,7 +4,7 @@
 
 ### When Game?
 
-August 6th - September 6th
+August 6th - October 31st, 2024
 
 ### How do I get access? 
 
